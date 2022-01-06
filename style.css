@@ -95,3 +95,22 @@ button {
     font-size: 18px;
     line-height: 30px;
 }
+
+/* ***** Footer ***** */
+footer {
+    background-color: #0B0D17;
+    text-align: center;
+    color: white;
+}
+footer h3 {
+    font-size: 36px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    padding-top: 39px;
+}
+.color2 {color: lightgreen;}
+footer p {
+    color: #D9DBE1;
+    font-size: 14px;
+    padding-bottom: 46px;
+}
