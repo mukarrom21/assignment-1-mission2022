@@ -97,6 +97,25 @@ button {
     line-height: 30px;
 }
 
+
+/* ***** Services ****** */
+.service h1{
+    font-size: 48px;
+    text-align: center;
+}
+.service img {
+    width:80px;
+    float: left;
+    padding-right: 20px;
+}
+.service p {margin-top: 40px;}
+.design, .development, .maintenance {
+    width: 30%;
+    height: 250px;
+    padding: 10px;
+    box-shadow: 20px 20px 20px 20px gray;
+}
+
 /* ***** Footer ***** */
 footer {
     background-color: #0B0D17;
