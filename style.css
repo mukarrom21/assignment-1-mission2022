@@ -88,7 +88,7 @@ button {
     height: 311px;
     margin: 30px 0;
 }
-.section2-content h2 {
+.section2-content h2, form h2 {
     font-size: 36px;
     line-height: 54px;
 }
@@ -110,10 +110,28 @@ button {
 }
 .service p {margin-top: 40px;}
 .design, .development, .maintenance {
-    width: 30%;
+    width: 25%;
     height: 250px;
-    padding: 10px;
-    box-shadow: 20px 20px 20px 20px gray;
+    padding: 20px;
+    box-shadow: 20px 20px 46px 10px rgb(194, 224, 187);
+    border-radius: 25px;
+}
+
+/* contact */
+.wrapper {
+    width: 500px;
+    height: 550px;
+    margin: 100px auto;
+    text-align: center;
+    background-color: rgb(230, 240, 228);
+    font-size: 20px;
+    border-radius: 25px;
+}
+input {
+    padding: 10px 40px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 10px;
 }
 
 /* ***** Footer ***** */
