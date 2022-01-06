@@ -42,7 +42,7 @@ header {margin-top: 100px;}
 }
 header img {
     width: 400px;
-    margin-top: -100px;
+    /* margin-top: -100px; */
     float: right;
 }
 button {
@@ -81,6 +81,7 @@ button {
     width: 400px;
     height: 400px;
     margin-bottom: 100px;
+    border-radius: 25px;
 }
 .section2-content {
     width: 654px;
